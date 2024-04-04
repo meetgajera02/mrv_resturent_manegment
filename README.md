@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My Vivek Vadoliya</p>
+<p align="left">My Meet Gajera</p>
 
 ###
 
@@ -51,13 +51,13 @@
 ###
 
 <div align="left">
-  <a href="vvadoliya616@rku.ac.in" target="_blank">
+  <a href="mgajera967@rku.ac.in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/vadoliya-vivek/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/vivek_vadoliya_?igsh=MXRxbzNxZ2xoZjdvNQ==" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
